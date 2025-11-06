@@ -1,4 +1,4 @@
-# CodeAlpha_ecommerce Store
+# _ecommerce Store
 A simple e-commerce web application built with Django backend and vanilla JavaScript frontend.
 
 Features
